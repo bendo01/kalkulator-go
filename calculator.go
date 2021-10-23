@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("inisialisasi")
+	fmt.Println("inisialisasi yang kedua")
 }
